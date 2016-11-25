@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "version": "0.1.2",
   "name": "Twitter Notification Filter",
-  "description": "Twitter(WEBクライアント)で各種通知ON/OFF切替",
+  "description": "Filtering Notification on Twitter(WebClient) as like as TweetDeck.",
   "content_scripts": [
     {
       "matches": ["https://twitter.com/i/notifications"],
